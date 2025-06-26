@@ -61,24 +61,6 @@ Confusion matrix and sample predictions were visualized to understand model beha
 Once trained, the model was saved as a rice.h5 file using:
 model.save("rice_model.h5")
 -----------------------------------------------------------------------------------------------------------------------
----
-
-
-## ⚙ Installation & Run Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/GrainPalette.git
-cd GrainPalette
-
-conda create -n grainpalette python=3.9
-conda activate grainpalette
-
-
-python app.py
-
---------------------------------------------------------------------------------------------------------------------------
 Project Lead: Nanabala Karthik
 Team ID : LTVIP2025TMID41595 
 Team Size : 4 
@@ -93,3 +75,19 @@ Email:
 Smart Bridge Internship:
 https://apsche.smartinternz.com/
 Developed as part of the Smart Bridge Artificial Intelligence and Machine learning Internship Program
+---------------------------------------------------------------------------------------------------------------------------
+## ⚙ Installation & Run Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/GrainPalette.git
+cd GrainPalette
+
+conda create -n grainpalette python=3.9
+conda activate grainpalette
+
+
+python app.py
+
+
