@@ -63,6 +63,7 @@ model.save("rice_model.h5")
 -----------------------------------------------------------------------------------------------------------------------
 ---
 
+
 ## ⚙ Installation & Run Instructions
 
 ### 1. Clone the Repository
@@ -76,3 +77,19 @@ conda activate grainpalette
 
 
 python app.py
+
+--------------------------------------------------------------------------------------------------------------------------
+Project Lead: Nanabala Karthik
+Team ID : LTVIP2025TMID41595 
+Team Size : 4 
+Team Leader : N Karthik 
+Team member : N Jagadeeswar Reddy 
+Team member : N Venkateswara Reddy 
+Team member : Ns Iffath Muskan
+--------------------------------------------------------------------------------------------------------------------------
+Email:
+# Karthiknanabala8094@gmail.com
+---------------------------------------------------------------------------------------------------------------------------
+Smart Bridge Internship:
+https://apsche.smartinternz.com/
+Developed as part of the Smart Bridge Artificial Intelligence and Machine learning Internship Program
