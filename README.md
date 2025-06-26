@@ -62,6 +62,7 @@ Once trained, the model was saved as a rice.h5 file using:
 model.save("rice_model.h5")
 -----------------------------------------------------------------------------------------------------------------------
 Project Lead: Nanabala Karthik
+.
 Team ID : LTVIP2025TMID41595 
 Team Size : 4 
 Team Leader : N Karthik 
