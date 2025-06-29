@@ -10,6 +10,7 @@ This project is about creating a smart computer program that can look at a pictu
 
 ------------------------------------------------------------------------------------------------------------------------
 **Features**
+
 🧠 Built with Transfer Learning using Keras/TensorFlow
 
 🌾 Classifies rice into 5 types:
@@ -63,7 +64,7 @@ dataset/
 └── Karacadag/
 
 -----------------------------------------------------------------------------------------------------------------------
-🧹 2. Data Preprocessing
+🧹** 2. Data Preprocessing**
 
 All images were resized to a consistent size (224x224) for compatibility with CNN models.
 
@@ -120,7 +121,7 @@ conda activate grainpalette
 
 
 python app.py
-
+---------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------
 Project Lead: Nanabala Karthik
 -----------------------------------------------------------------------------------------------------------------------
