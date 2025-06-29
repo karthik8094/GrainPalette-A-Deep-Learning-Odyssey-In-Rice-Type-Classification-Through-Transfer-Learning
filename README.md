@@ -65,11 +65,9 @@ Project Lead: Nanabala Karthik
 -----------------------------------------------------------------------------------------------------------------------
 Team ID : LTVIP2025TMID41595 
 -----------------------------------------------------------------------------------------------------------------------
-
-Team Leader : N Karthik 
 Team member : N Jagadeeswar Reddy 
-Team member : N Venkateswara Reddy 
-Team member : Ns Iffath Muskan
+ N Venkateswara Reddy 
+ Ns Iffath Muskan
 --------------------------------------------------------------------------------------------------------------------------
 Email:
 # Karthiknanabala8094@gmail.com
