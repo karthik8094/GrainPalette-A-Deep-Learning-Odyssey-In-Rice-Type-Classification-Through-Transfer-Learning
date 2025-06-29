@@ -111,16 +111,7 @@ model.save("rice_model.h5")
 
 ### 1. Clone the Repository
 
-```bash
 
-git clone https://github.com/yourusername/GrainPalette.git
-cd GrainPalette
-
-conda create -n grainpalette python=3.9
-conda activate grainpalette
-
-python app.py
-python
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Lead: Nanabala Karthik
