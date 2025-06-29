@@ -1,5 +1,5 @@
 # GrainPalette-A-Deep-Learning-Odyssey-In-Rice-Type-Classification-Through-Transfer-Learning
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project is about creating a smart computer program that can look at a picture of rice and tell what type of rice it is. We used a special method in Artificial Intelligence called Deep Learning to make the program learn from lots of rice images.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Project Preview:**
@@ -8,7 +8,7 @@ This project is about creating a smart computer program that can look at a pictu
 
 ![image Alt](https://github.com/karthik8094/GrainPalette-A-Deep-Learning-Odyssey-In-Rice-Type-Classification-Through-Transfer-Learning/blob/2dedade35c17bfc5bfbd9359905262919a93a247/Screenshot%202025-06-26%20190432.png)
 
-------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Features**
 
 🧠 Built with Transfer Learning using Keras/TensorFlow
@@ -34,14 +34,14 @@ This project is about creating a smart computer program that can look at a pictu
 
 🎨 Modern UI with navbar, background, and animations
 
----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🛠 Project Development Process**
 
 The development of GrainPalette followed a structured approach integrating deep learning, data preprocessing, and web application development. Below is a detailed breakdown of the process:
 
-----------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📁 **1. Dataset Collection & Preparation**
+**📁 1. Dataset Collection & Preparation**
 
 The dataset was organized into five folders, each representing a rice type: Basmati, Jasmine, Arborio, Brown, and White.
 
@@ -63,8 +63,8 @@ dataset/
 
 └── Karacadag/
 
------------------------------------------------------------------------------------------------------------------------
-🧹** 2. Data Preprocessing**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**🧹 2. Data Preprocessing**
 
 All images were resized to a consistent size (224x224) for compatibility with CNN models.
 
@@ -74,8 +74,8 @@ Data was split into training and validation sets with an 80-20 ratio.
 
 Techniques such as augmentation (rotation, zoom, flips) were optionally used to improve generalization.
 
-----------------------------------------------------------------------------------------------------------------------
-🧠** 3. Model Building Using Transfer Learning**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**🧠 3. Model Building Using Transfer Learning**
 
 A pre-trained CNN architecture (e.g., MobileNetV2, VGG16, or ResNet50) was used as a base model.
 
@@ -91,8 +91,8 @@ accuracy as the evaluation metric
 
 Training was done using Keras with model.fit() and included callbacks like EarlyStopping to avoid overfitting.
 
---------------------------------------------------------------------------------------------------------------------
-📈** 4. Model Evaluation**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**📈 4. Model Evaluation**
 
 Accuracy and loss graphs were plotted for training and validation sets.
 
@@ -100,8 +100,8 @@ A classification report was generated to evaluate precision, recall, F1-score.
 
 Confusion matrix and sample predictions were visualized to understand model behavior.
 
------------------------------------------------------------------------------------------------------------------------
-💾** 5. Model Saving**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**💾 5. Model Saving**
 
 Once trained, the model was saved as a rice.h5 file using:
 
@@ -119,25 +119,24 @@ cd GrainPalette
 conda create -n grainpalette python=3.9
 conda activate grainpalette
 
-
 python app.py
----------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Lead: Nanabala Karthik
------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Team ID : LTVIP2025TMID41595 
------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Team members : N Jagadeeswar Reddy 
  N Venkateswara Reddy 
  Ns Iffath Muskan
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Email:
 # Karthiknanabala8094@gmail.com
----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Smart Bridge Internship:
 https://apsche.smartinternz.com/
 Developed as part of the Smart Bridge Artificial Intelligence and Machine learning Internship Program
----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
